@@ -1,8 +1,9 @@
 {
   "name": "reactjs-styled",
-  "version": "1.0.0",
+  "version": "2.0.1",
   "description": "reactjs-styled is a powerful and versatile library for creating styled components in React applications. With reactjs-styled, you can easily define and apply custom styles to your components, making it simple to create beautiful and responsive user interfaces.",
   "main": "./dist/index.js",
+  "types": "./dist/reactjs-styled.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "babel src -d dist"
