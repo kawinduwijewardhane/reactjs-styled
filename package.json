@@ -1,0 +1,36 @@
+{
+  "name": "reactjs-styled",
+  "version": "1.0.0",
+  "description": "reactjs-styled is a powerful and versatile library for creating styled components in React applications. With reactjs-styled, you can easily define and apply custom styles to your components, making it simple to create beautiful and responsive user interfaces.",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d dist"
+  },
+  "keywords": [
+    "react",
+    "styled-components",
+    "css-in-js",
+    "styled-components-library",
+    "reactjs-styled"
+  ],
+  "author": "Kawindu Wijewardhane",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kawinduwijewardhane/reactjs-styled.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kawinduwijewardhane/reactjs-styled/issues"
+  },
+  "homepage": "https://github.com/kawinduwijewardhane/reactjs-styled#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.24.1",
+    "@babel/core": "^7.24.4",
+    "@babel/preset-env": "^7.24.4",
+    "@babel/preset-react": "^7.24.1"
+  }
+}
