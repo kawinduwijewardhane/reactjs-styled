@@ -1,8 +1,8 @@
-<center>
+<div align="center">
 
 ![ReactJS Styled Logo](https://raw.githubusercontent.com/kawinduwijewardhane/reactjs-styled/main/logo.png)
 
-</center>
+</div>
 
 # reactjs-styled
 
